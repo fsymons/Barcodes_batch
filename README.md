@@ -1,2 +1,2 @@
 # Barcodes_batch
-DOS wrapper script to extract barcode nos from files using Lawrence Hudson's Gouda barcode reader
+DOS wrapper script to extract barcode nos from files using Lawrence Hudson's Gouda barcode reader. See Lawrence's web page here: https://github.com/NaturalHistoryMuseum/gouda . Place files of type png, jpg, jpeg or gif into a folder together with this script and his decode_barcodes.exe program. Then double-click on the script. It produces a 2-column tab-separated text file which you can read into (e.g.) XL.
